@@ -1,4 +1,6 @@
 # LACITYzoning_points_section
+![alt text][logo]
+[logo]: https://raw.githubusercontent.com/cityhubla/LACITYzoning_points_section/master/sc_1.PNG "Logo Title Text 2"
 
 Experimenting with QGIS and Three.js with the QGIS2THREE.JS plugin.
 
