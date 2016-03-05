@@ -12,23 +12,24 @@ The camera coordinates and angles were saved and the view can be seen here. [3D 
 
 OrbitControls
 
-* Mouse
- Left button + Move   : Orbit
- Middle button + Move : Zoom
- Right button + Move  : Pan
+Mouse
 
-* Keys
- Arrow keys               : Move Horizontally
- Shift + Arrow keys       : Orbit
- Ctrl  + Arrow keys       : Rotate
- Shift + Ctrl + Up / Down : Zoom In / Out
+* Left button + Move   : Orbit
+* Middle button + Move : Zoom
+* Right button + Move  : Pan
 
- R         : Auto Rotate On / Off
- U         : Switch Upside Down (controls are also reversed)
+Keys
+* Arrow keys               : Move Horizontally
+* Shift + Arrow keys       : Orbit
+* Ctrl  + Arrow keys       : Rotate
+* Shift + Ctrl + Up / Down : Zoom In / Out
 
- I         : Show Information About Page
- L         : Toggle Label Visibility
- W         : Wireframe Mode
- Shift + R : Reset View
- Shift + S : Save Image
+* R         : Auto Rotate On / Off
+* U         : Switch Upside Down (controls are also reversed)
+
+* I         : Show Information About Page
+* L         : Toggle Label Visibility
+* W         : Wireframe Mode
+* Shift + R : Reset View
+* Shift + S : Save Image
 
